@@ -1,0 +1,243 @@
+{
+  "sentence": "Our team excels at leveraging these technologies",
+  "info": {
+    "frontend": {
+      "name": "frontend",
+
+      "title": "FRONTEND",
+      "images": [
+        {
+          "title": "Angolure",
+          "image": "/angolure.png"
+        },
+        {
+          "title": "Css",
+          "image": "/css.png"
+        },
+        {
+          "title": "Jquery",
+          "image": "/jquery.png"
+        },
+        {
+          "title": "React",
+          "image": "/react.png"
+        },
+
+        {
+          "title": "Typescript",
+          "image": "/ts.png"
+        },
+        {
+          "title": "Vue",
+          "image": "/vue.png"
+        },
+        {
+          "title": "Javascript",
+          "image": "/js.png"
+        }
+      ]
+    },
+    "backend": {
+      "name": "backend",
+      "title": "BACKEND",
+      "images": [
+        {
+          "title": "dotnet",
+          "image": "/dotnet.png"
+        },
+        {
+          "title": "fastapi",
+          "image": "/fastapi.png"
+        },
+        {
+          "title": "laravel",
+          "image": "/laravel.png"
+        },
+        {
+          "title": "marklogic",
+          "image": "/marklogic.png"
+        },
+        {
+          "title": "nestjs",
+          "image": "/nestjs.png"
+        },
+        {
+          "title": "nodejs",
+          "image": "/nodejs.png"
+        },
+        {
+          "title": "php",
+          "image": "/php.png"
+        },
+        {
+          "title": "python",
+          "image": "/python.png"
+        },
+        {
+          "title": "rest-api",
+          "image": "/rest-api.png"
+        },
+        {
+          "title": "rust",
+          "image": "/rust.png"
+        },
+        {
+          "title": "zig",
+          "image": "/zig.png"
+        },
+        {
+          "title": "sparql",
+          "image": "/sparql.png"
+        },
+        {
+          "title": "swagger",
+          "image": "/swagger.png"
+        }
+      ]
+    },
+    "databases": {
+      "name": "databases",
+      "title": "DATABASES",
+      "images": [
+        {
+          "title": "dynamodb",
+          "image": "/dynamodb.png"
+        },{
+          "title": "documentdb",
+          "image": "/documentdb.png"
+        },{
+          "title": "elasticsearch",
+          "image": "/elasticsearch.png"
+        },{
+          "title": "firebase",
+          "image": "/firebase.png"
+        },{
+          "title": "neo4j",
+          "image": "/neo4j.png"
+        },{
+          "title": "marklogic",
+          "image": "/marklogic.png"
+        },{
+          "title": "mongodb",
+          "image": "/mongodb.png"
+        },{
+          "title": "mysql",
+          "image": "/mysql.png"
+        },{
+          "title": "redshift",
+          "image": "/redshift.png"
+        },{
+          "title": "sqlite",
+          "image": "/sqlite.png"
+        },{
+          "title": "redis",
+          "image": "/redis.png"
+        },{
+          "title": "postgres",
+          "image": "/postgres.png"
+        }
+      ]
+    },
+    "services": {
+      "name": "services",
+      "title": "SERVICES",
+      "images": [
+        {
+          "title": "atlassian",
+          "image": "/atlassian.png"
+        },{
+          "title": "aws",
+          "image": "/aws.png"
+        },{
+          "title": "docker",
+          "image": "/docker.png"
+        },{
+          "title": "nifi",
+          "image": "/nifi.png"
+        }
+      ]
+    },
+    "mobile": {
+      "name": "mobile",
+      "title": "MOBILE",
+      "images": [
+        {
+          "title": "react",
+          "image": "/react.png"
+        },    {
+          "title": "flutter",
+          "image": "/flutter.png"
+        }
+      ]
+    },
+    "machine": {
+      "name": "machine",
+      "title": "AI & MACHINE LEARNING",
+      "images": [
+        {
+          "title": "keras",
+          "image": "/keras.png"
+        },{
+          "title": "openai",
+          "image": "/openai.png"
+        },{
+          "title": "pytorch",
+          "image": "/pytorch.png"
+        },{
+          "title": "tensorflow",
+          "image": "/tensorflow.png"
+        },{
+          "title": "spacy",
+          "image": "/spacy.png"
+        },{
+          "title": "scikit-learn",
+          "image": "/scikit-learn.png"
+        }
+      ]
+    },
+    "visualization": {
+      "name": "visualization",
+      "title": "VISUALIZATION",
+      "images": [
+        {
+          "title": "antv",
+          "image": "/antv.png"
+        },{
+          "title": "highcharts",
+          "image": "/highcharts.png"
+        },{
+          "title": "superset",
+          "image": "/superset.png"
+        },{
+          "title": "power-bi",
+          "image": "/power-bi.png"
+        }
+      ]
+    },
+    "testing": {
+      "name": "testing",
+      "title": "TESTING",
+      "images": [
+        {
+          "title": "cypress",
+          "image": "/cypress.png"
+        },{
+          "title": "jest",
+          "image": "/jest.png"
+        },{
+          "title": "jmeter",
+          "image": "/jmeter.png"
+        },{
+          "title": "selenium",
+          "image": "/selenium.png"
+        },{
+          "title": "katalon",
+          "image": "/katalon.png"
+        },{
+          "title": "mocha",
+          "image": "/mocha.png"
+        }
+      ]
+    }
+  }
+}
